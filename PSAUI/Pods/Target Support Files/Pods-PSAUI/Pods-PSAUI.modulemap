@@ -1,0 +1,6 @@
+framework module Pods_PSAUI {
+  umbrella header "Pods-PSAUI-umbrella.h"
+
+  export *
+  module * { export * }
+}
