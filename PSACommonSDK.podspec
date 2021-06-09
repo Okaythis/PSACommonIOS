@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'PSACommonSDK'
-  spec.version      = '1.0.10'
+  spec.version      = '1.1.12'
   spec.license      = { :type => 'Apache 2.0', :file => 'LICENSE' }
   spec.homepage     = 'https://okaythis.com'
   spec.author       = { 'Okay This' => 'hello@okaythis.com' }
